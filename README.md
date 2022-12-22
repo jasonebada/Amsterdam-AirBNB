@@ -1,5 +1,8 @@
 # AirBNB Amsterdam Data Cleaning & Exploration
 
+In this project I will be cleaning & analyzing data regarding the listings of AirBNB in Amsterdam and their reviews.
+The data was complied on September 7th, 2022.
+
 ## PART 1
   In the file 'PART1-data-cleaning-sql' I will be using SQL queries to clean Amsterdam's AirBNB listing data.
 The data can be found in the excel file 'PART1-listings-data-for-cleaning'
