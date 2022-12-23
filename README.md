@@ -1,4 +1,4 @@
-# 🏡 AirBNB Amsterdam Data Cleaning & Exploration 🏰
+# AirBNB Amsterdam Data Cleaning & Exploration 🏡
 
 In this project I will be cleaning & analyzing data regarding the listings of AirBNB in Amsterdam and their reviews.
 The data was compiled on September 7th, 2022.
